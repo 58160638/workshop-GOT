@@ -1,0 +1,19 @@
+{
+    "name": "swt-contact-list",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node_modules/.bin/jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^21.2.1",
+        "supertest": "^3.0.0"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2"
+    }
+}
